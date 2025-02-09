@@ -11,7 +11,8 @@
         keys
             // Left Half - Main Keys
             // RIGHT                 w   h   x   y rot  rx  ry
-            = <&key_physical_attrs 100 100   0 100   0   0   0>
+            = <&key_physical_attrs 100 100   0   0   0   0   0>
+            , <&key_physical_attrs 100 100   0 100   0   0   0>
             , <&key_physical_attrs 100 100   0 200   0   0   0>
             , <&key_physical_attrs 100 100   0 300   0   0   0>
             , <&key_physical_attrs 100 100 100   0   0   0   0>
