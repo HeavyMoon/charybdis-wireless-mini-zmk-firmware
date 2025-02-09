@@ -10,7 +10,7 @@
 
         keys
             // Left Half - Main Keys
-            # RIGHT                  w   h   x   y rot  rx  ry
+            // RIGHT                 w   h   x   y rot  rx  ry
             = <&key_physical_attrs 100 100   0 100   0   0   0>
             , <&key_physical_attrs 100 100   0 200   0   0   0>
             , <&key_physical_attrs 100 100   0 300   0   0   0>
@@ -40,7 +40,7 @@
             , <&key_physical_attrs 100 100 700 400   0   0   0>
             , <&key_physical_attrs 100 100 700 500   0   0   0>
 
-            # LEFT                   w   h    x   y rot  rx  ry
+            // LEFT                  w   h    x   y rot  rx  ry
             , <&key_physical_attrs 100 100  900 400   0   0   0>
             , <&key_physical_attrs 100 100  900 500   0   0   0>
             , <&key_physical_attrs 100 100 1000 400   0   0   0>
