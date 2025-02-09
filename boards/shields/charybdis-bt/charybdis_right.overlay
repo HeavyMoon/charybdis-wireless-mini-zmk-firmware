@@ -6,7 +6,11 @@
 	col-offset = <6>;
 };
 
-&five_column_transform {
+&charibdis_mini_transform {
+	col-offset = <6>;
+};
+
+&charibdis_nano_transform {
 	col-offset = <5>;
 };
 
